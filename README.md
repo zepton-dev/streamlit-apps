@@ -5,4 +5,4 @@ task-1: https://zepton-analysis-dashboard.streamlit.app/
 
 task-2: https://zepton-npi-finder.streamlit.app/
 
-task-3: https://npi-chatbot-zepton.streamlit.app/
+task-3: https://zepton-npi-chatbot.streamlit.app/
